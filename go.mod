@@ -158,7 +158,7 @@ require (
 	github.com/toqueteos/webbrowser v1.2.0 // indirect
 	github.com/tstranex/u2f v1.0.0 // indirect
 	github.com/ugorji/go v1.1.7 // indirect
-	github.com/unknwon/cae v1.0.0
+	github.com/unknwon/cae v1.0.2
 	github.com/unknwon/com v1.0.1
 	github.com/unknwon/i18n v0.0.0-20190805065654-5c6446a380b6 // indirect
 	github.com/unknwon/paginater v0.0.0-20151104151617-7748a72e0141 // indirect
