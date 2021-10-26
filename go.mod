@@ -65,7 +65,7 @@ require (
 	github.com/go-openapi/spec v0.19.0 // indirect
 	github.com/go-openapi/strfmt v0.19.3 // indirect
 	github.com/go-openapi/validate v0.19.0 // indirect
-	github.com/go-redis/redis v6.15.7+incompatible
+	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/go-swagger/go-swagger v0.19.0 // indirect
 	github.com/go-swagger/scan-repo-boundary v0.0.0-20180623220736-973b3573c013 // indirect
 	github.com/go-xorm/xorm v0.7.3 // indirect
