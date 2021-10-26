@@ -144,7 +144,6 @@ require (
 	github.com/siddontang/go-snappy v0.0.0-20140704025258-d8f7bb82a96d // indirect
 	github.com/siddontang/ledisdb v0.0.0-20190202134119-8ceb77e66a92 // indirect
 	github.com/siddontang/rdb v0.0.0-20150307021120-fc89ed2e418d // indirect
-	github.com/sirupsen/logrus v1.4.2 // indirect
 	github.com/smartystreets/assertions v1.0.1 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	github.com/spf13/afero v1.2.2 // indirect
@@ -164,15 +163,15 @@ require (
 	github.com/unknwon/paginater v0.0.0-20151104151617-7748a72e0141 // indirect
 	github.com/urfave/cli v1.20.0 // indirect
 	github.com/willf/bitset v0.0.0-20180426185212-8ce1146b8621 // indirect
-	github.com/xanzy/ssh-agent v0.2.1
+	github.com/xanzy/ssh-agent v0.3.1
 	github.com/yohcop/openid-go v0.0.0-20160914080427-2c050d2dae53 // indirect
 	go.etcd.io/bbolt v1.3.3 // indirect
 	go.mongodb.org/mongo-driver v1.1.1 // indirect
 	go.opencensus.io v0.22.0 // indirect
-	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
 	golang.org/x/image v0.0.0-20190802002840-cff245a6509b // indirect
-	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
-	golang.org/x/sys v0.0.0-20200331124033-c3d80250170d
+	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
+	golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
 	golang.org/x/tools v0.0.0-20190910221609-7f5965fd7709 // indirect
 	google.golang.org/api v0.9.0 // indirect
 	google.golang.org/genproto v0.0.0-20190819201941-24fa4b261c55 // indirect
