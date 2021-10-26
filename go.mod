@@ -181,7 +181,7 @@ require (
 	gopkg.in/asn1-ber.v1 v1.0.0-20150924051756-4e86f4367175 // indirect
 	gopkg.in/editorconfig/editorconfig-core-go.v1 v1.3.0 // indirect
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df // indirect
-	gopkg.in/ini.v1 v1.55.0
+	gopkg.in/ini.v1 v1.63.2
 	gopkg.in/ldap.v3 v3.0.2 // indirect
 	gopkg.in/square/go-jose.v2 v2.3.1 // indirect
 	gopkg.in/src-d/go-billy.v4 v4.3.2
