@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	cloud.google.com/go v0.40.0 // indirect
-	code.gitea.io/gitea v1.9.0-dev
+	code.gitea.io/gitea v1.15.6
 	gitea.com/lunny/levelqueue v0.1.0 // indirect
 	gitea.com/macaron/inject v0.0.0-20190805023432-d4c86e31027a
 	gitea.com/macaron/macaron v1.3.2
