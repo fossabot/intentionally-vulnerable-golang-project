@@ -111,7 +111,7 @@ require (
 	github.com/markbates/goth v1.56.0 // indirect
 	github.com/mattn/go-isatty v0.0.12
 	github.com/mattn/go-oci8 v0.0.0-20190320171441-14ba190cf52d // indirect
-	github.com/mattn/go-sqlite3 v2.0.3+incompatible
+	github.com/mattn/go-sqlite3 v2.0.6+incompatible
 	github.com/mcuadros/go-version v0.0.0-20190830083331-035f6764e8d2
 	github.com/microcosm-cc/bluemonday v0.0.0-20161012083705-f77f16ffc87a // indirect
 	github.com/mitchellh/go-homedir v1.1.0
